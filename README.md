@@ -134,12 +134,6 @@ The target variable indicates whether the **loan application is Approved or Reje
 
 ---
 
-## 🏁 Conclusion
-
-This project demonstrates how machine learning can assist financial institutions in predicting loan approval decisions based on applicant information. From preprocessing to model evaluation and prediction, it provides a complete understanding of building a binary classification model for real-world financial applications.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -148,3 +142,11 @@ This project demonstrates how machine learning can assist financial institutions
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how machine learning can assist financial institutions in predicting loan approval decisions based on applicant information. From preprocessing to model evaluation and prediction, it provides a complete understanding of building a binary classification model for real-world financial applications.
+
+
